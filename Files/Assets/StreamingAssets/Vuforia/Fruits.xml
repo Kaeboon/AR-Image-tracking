@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="208-2085893_rose-clipart-apple-tree-transparent-apples-clip-art" size="0.100000 0.075117" />
+    <ImageTarget name="553-5531630_blueberry-clipart-png-clip-art-royalty-free-download" size="0.100000 0.071951" />
+    <ImageTarget name="lemon-vector-clipart-260nw-1287793069" size="0.100000 0.107692" />
+  </Tracking>
+</QCARConfig>
